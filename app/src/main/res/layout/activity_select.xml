@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SelectActivity"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:background="#50BCDF"
+        android:text="오답 확인" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TVtitle"
+        android:hint="오답 문제 제목"
+        android:textSize="20dp"
+        android:layout_weight="2"
+        android:layout_marginTop="20dp"
+        android:gravity="center"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_weight="5"
+        android:id="@+id/IVproblem" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_weight="5"
+        android:visibility="invisible"
+        android:id="@+id/IVanswer" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnback"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="20dp"
+            android:textColor="#ffffff"
+            android:textSize="17dp"
+            android:background="#50BCDF"
+            android:text="뒤로"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnconfirm"
+            android:layout_marginRight="20dp"
+            android:textColor="#ffffff"
+            android:textSize="17dp"
+            android:background="#50BCDF"
+            android:text="정답 확인"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnmemo"
+            android:textColor="#ffffff"
+            android:textSize="17dp"
+            android:background="#50BCDF"
+            android:text="메모"/>
+    </LinearLayout>
+
+</LinearLayout>
