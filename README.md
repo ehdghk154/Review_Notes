@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/50476562/168236066-03353625-271c-41df-aa52-89c12cb022bc.jpg"/>
 
 + 정답 확인 전/후
-<div class="grid-image">
+<div>
     <img src="https://user-images.githubusercontent.com/50476562/168236181-9d0929c0-df3b-4bda-ac25-e88aa5e5ae18.jpg"/>
     <img src="https://user-images.githubusercontent.com/50476562/168236197-8a2a8496-add7-49f1-979c-a91a2ac37a91.jpg"/>
 </div>
