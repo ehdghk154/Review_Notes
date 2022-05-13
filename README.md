@@ -1,5 +1,3 @@
-<div align="center">
-    
 # Review Notes
 ## 프로젝트 소개
 스마트폰으로 언제 어디서든 열어볼 수 있는 나만의 오답 노트
@@ -51,7 +49,5 @@
 <div>
     <img src="https://user-images.githubusercontent.com/50476562/168236831-0afbc9a9-49ba-4b16-af28-73e2bb65e663.jpg"/>
     <img src="https://user-images.githubusercontent.com/50476562/168236833-317a3a3d-54f1-4d10-8ca1-34fc040456eb.jpg"/>
-</div>
-    
 </div>
 ---
