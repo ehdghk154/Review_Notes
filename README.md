@@ -23,7 +23,7 @@
 <figure class="half">
     <img src="https://user-images.githubusercontent.com/50476562/168236181-9d0929c0-df3b-4bda-ac25-e88aa5e5ae18.jpg"/>
     <img src="https://user-images.githubusercontent.com/50476562/168236197-8a2a8496-add7-49f1-979c-a91a2ac37a91.jpg"/>
-figure>
+</figure>
   
 + 메모 작성
 <img src="https://user-images.githubusercontent.com/50476562/168236391-af04a7b8-a0e1-458e-aa42-51fe5a7adf49.jpg"/>
