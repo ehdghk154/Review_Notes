@@ -36,41 +36,15 @@
 <img src="https://user-images.githubusercontent.com/50476562/168236528-f1e478f2-3284-4208-850b-371a7b743476.jpg"/>
   
 + 예외 처리
-<img src="https://user-images.githubusercontent.com/50476562/168236659-d603c6a5-4809-40aa-803d-d7a7ac29533c.jpg"/>
-<img src="https://user-images.githubusercontent.com/50476562/168236662-102f5f13-3b98-4ee5-a07e-83a52070635a.jpg"/>
-<img src="https://user-images.githubusercontent.com/50476562/168236664-1f40456d-bc71-40c4-907c-a9e1d99d66da.jpg"/>
-  
+<div>
+    <img src="https://user-images.githubusercontent.com/50476562/168236659-d603c6a5-4809-40aa-803d-d7a7ac29533c.jpg"/>
+    <img src="https://user-images.githubusercontent.com/50476562/168236662-102f5f13-3b98-4ee5-a07e-83a52070635a.jpg"/>
+    <img src="https://user-images.githubusercontent.com/50476562/168236664-1f40456d-bc71-40c4-907c-a9e1d99d66da.jpg"/>
+</div>
+
 + 권한
-<img src="https://user-images.githubusercontent.com/50476562/168236831-0afbc9a9-49ba-4b16-af28-73e2bb65e663.jpg"/>
-<img src="https://user-images.githubusercontent.com/50476562/168236833-317a3a3d-54f1-4d10-8ca1-34fc040456eb.jpg"/>
+<div>
+    <img src="https://user-images.githubusercontent.com/50476562/168236831-0afbc9a9-49ba-4b16-af28-73e2bb65e663.jpg"/>
+    <img src="https://user-images.githubusercontent.com/50476562/168236833-317a3a3d-54f1-4d10-8ca1-34fc040456eb.jpg"/>
+</div>
 ---
-<style>
-/* CSS */
-.grid-image {
-    display:flex;
-    flex-wrap:wrap;
-    align-items:flex-start;
-    margin:30px 0;
-}
-.grid-image img {
-    width:calc(33.333% - 10px);
-    margin:0 15px 15px 0;
-}
-.grid-image img:nth-of-type(3n),
-.grid-image img:last-child {
-    margin-right:0;
-}
-@media screen and (max-width:640px){
-  .grid-image img {
-    width:calc(50% - 15px);
-  }
-}
-@media screen and (max-width:480px){
-  .grid-image img:nth-of-type(2n) {
-    margin-right:0;
-  }
-  .grid-image img:nth-of-type(3n) {
-    margin-right:15px;
-  }
-}
-</style>
