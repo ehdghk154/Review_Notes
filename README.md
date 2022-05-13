@@ -2,11 +2,11 @@
 스마트폰으로 언제 어디서든 열어볼 수 있는 나만의 오답 노트
 
 # 개발 환경
-+Android Studio
-+Galaxy Note 9
++ Android Studio
++ Galaxy Note 9
 
 # 실행 화면 및 프로그램 기능
-* 메인 화면
+## + 메인 화면
 
 <img src="https://user-images.githubusercontent.com/50476562/168234502-221fde31-9fe8-4d4e-835b-a4e59506f1c0.jpg"/>
 
