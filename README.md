@@ -3,7 +3,7 @@
 스마트폰으로 언제 어디서든 열어볼 수 있는 나만의 오답 노트
 
 ## 개발 환경
-+ <img src="https://img.shields.io/badge/Android Studio-#3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
++ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 + Galaxy Note 9
 
 ## 실행 화면 및 프로그램 기능
