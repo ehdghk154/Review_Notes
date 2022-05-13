@@ -1,3 +1,4 @@
+<div align="center">
 # Review Notes
 ## 프로젝트 소개
 스마트폰으로 언제 어디서든 열어볼 수 있는 나만의 오답 노트
@@ -33,7 +34,10 @@
 <img src="https://user-images.githubusercontent.com/50476562/168236397-1aae4abb-5da6-4dbb-8335-023c857d989a.jpg"/>
 
 + 오답 노트 삭제
-<img src="https://user-images.githubusercontent.com/50476562/168236528-f1e478f2-3284-4208-850b-371a7b743476.jpg"/>
+<div>
+    <img src="https://user-images.githubusercontent.com/50476562/168236528-f1e478f2-3284-4208-850b-371a7b743476.jpg"/>
+    <img src="https://user-images.githubusercontent.com/50476562/168240325-dfe9bf1a-be7e-4b31-b50c-9337ef482eae.jpg"/>
+</div>
 
 + 예외 처리
 <div>
@@ -46,5 +50,6 @@
 <div>
     <img src="https://user-images.githubusercontent.com/50476562/168236831-0afbc9a9-49ba-4b16-af28-73e2bb65e663.jpg"/>
     <img src="https://user-images.githubusercontent.com/50476562/168236833-317a3a3d-54f1-4d10-8ca1-34fc040456eb.jpg"/>
+</div>
 </div>
 ---
