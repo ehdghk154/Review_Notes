@@ -20,10 +20,11 @@
 <img src="https://user-images.githubusercontent.com/50476562/168236066-03353625-271c-41df-aa52-89c12cb022bc.jpg"/>
 
 + 정답 확인 전/후
-<figure class="half">
+<div class="grid-image">
     <img src="https://user-images.githubusercontent.com/50476562/168236181-9d0929c0-df3b-4bda-ac25-e88aa5e5ae18.jpg"/>
     <img src="https://user-images.githubusercontent.com/50476562/168236197-8a2a8496-add7-49f1-979c-a91a2ac37a91.jpg"/>
-</figure>
+</div>
+
   
 + 메모 작성
 <img src="https://user-images.githubusercontent.com/50476562/168236391-af04a7b8-a0e1-458e-aa42-51fe5a7adf49.jpg"/>
@@ -43,4 +44,33 @@
 <img src="https://user-images.githubusercontent.com/50476562/168236831-0afbc9a9-49ba-4b16-af28-73e2bb65e663.jpg"/>
 <img src="https://user-images.githubusercontent.com/50476562/168236833-317a3a3d-54f1-4d10-8ca1-34fc040456eb.jpg"/>
 ---
-
+<style>
+/* CSS */
+.grid-image {
+    display:flex;
+    flex-wrap:wrap;
+    align-items:flex-start;
+    margin:30px 0;
+}
+.grid-image img {
+    width:calc(33.333% - 10px);
+    margin:0 15px 15px 0;
+}
+.grid-image img:nth-of-type(3n),
+.grid-image img:last-child {
+    margin-right:0;
+}
+@media screen and (max-width:640px){
+  .grid-image img {
+    width:calc(50% - 15px);
+  }
+}
+@media screen and (max-width:480px){
+  .grid-image img:nth-of-type(2n) {
+    margin-right:0;
+  }
+  .grid-image img:nth-of-type(3n) {
+    margin-right:15px;
+  }
+}
+</style>
