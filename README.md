@@ -8,8 +8,10 @@
 # 실행 화면 및 프로그램 기능
 +메인 화면
 <img src="https://user-images.githubusercontent.com/50476562/168234502-221fde31-9fe8-4d4e-835b-a4e59506f1c0.jpg"/>
+
 +오답 추가
 <img src="https://user-images.githubusercontent.com/50476562/168234144-4ff864fb-e9e9-4997-928c-da70af5218a0.jpg"/>
+
 +오답/정답 촬영
 <img src="https://user-images.githubusercontent.com/50476562/168234720-b2fe8d47-40c6-44c2-b440-104c5082fbb2.jpg"/>
 +오답 목록
