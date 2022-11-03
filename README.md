@@ -3,8 +3,8 @@
 스마트폰으로 언제 어디서든 열어볼 수 있는 나만의 오답 노트
 
 ## 개발 환경
-+ 언어 : Java
-+ IDE : Android Studio
++ **언어 : Java**
++ **IDE : Android Studio**
 
 ## 실행 화면 및 프로그램 기능
 + 메인 화면
